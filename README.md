@@ -17,7 +17,7 @@ yarn global add appcenter-cli
 appcenter login
 ```
 
-![스크린샷 2021-11-30 오후 5.50.20.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d952660a-a067-466c-aeb9-3f9ac0b945ee/스크린샷_2021-11-30_오후_5.50.20.png)
+![cp1.png](./images/cp1.png)
 
 - appcenter-cli를 설치한 후에 appcenter register 명령어를 터미널에 입력하면 appcenter사이트가 열리고 로그인이 된 상태라면 위 이미지처럼 토큰이 나타나게 됩니다. 이걸 복사해서 터미널에 붙여넣기 합니다.
     
